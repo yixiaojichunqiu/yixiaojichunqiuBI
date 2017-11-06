@@ -16,5 +16,6 @@
 
 ///拼音首字母 -> py
 //- (NSString *)transformToPinyinFirstLetter;
+- (void)stringValue;
 
 @end

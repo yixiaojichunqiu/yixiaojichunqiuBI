@@ -18,10 +18,10 @@ Pod::Spec.new do |s|
 #   * Finally, don't worry about the indent, CocoaPods strips it!
 
   s.description      = <<-DESC
-my description is fdk bi.
+  my description is fdk bi.
                        DESC
 
-  s.homepage         = 'https://github.com/yixiaojichunqiu/yixiaojichunqiuBI'
+  s.homepage         = 'https://github.com/yixiaojichunqiu/yixiaojichunqiuBI/'
   # s.screenshots     = 'www.example.com/screenshots_1', 'www.example.com/screenshots_2'
   s.license          = { :type => 'MIT', :file => 'LICENSE' }
   s.author           = { 'fdk785126868@qq.com' => 'fdk785126868@qq.com' }

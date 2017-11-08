@@ -1,9 +1,9 @@
 {
   "name": "yixiaojichunqiuBI",
   "version": "0.1.0",
-  "summary": "A short description of yixiaojichunqiuBI.",
-  "description": "TODO: Add long description of the pod here.",
-  "homepage": "https://github.com/fdk785126868@qq.com/yixiaojichunqiuBI",
+  "summary": "my yixiaojichunqiuBI.",
+  "description": "my description is fdk bi.",
+  "homepage": "https://github.com/yixiaojichunqiu/yixiaojichunqiuBI",
   "license": {
     "type": "MIT",
     "file": "LICENSE"
@@ -12,7 +12,7 @@
     "fdk785126868@qq.com": "fdk785126868@qq.com"
   },
   "source": {
-    "git": "https://github.com/fdk785126868@qq.com/yixiaojichunqiuBI.git",
+    "git": "https://github.com/yixiaojichunqiu/yixiaojichunqiuBI.git",
     "tag": "0.1.0"
   },
   "platforms": {

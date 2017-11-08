@@ -7,7 +7,7 @@
 //
 
 #import "BIYViewController.h"
-
+#import <yixiaojichunqiuBI/NSString+pinyin.h>
 @interface BIYViewController ()
 
 @end
@@ -19,6 +19,8 @@
     [super viewDidLoad];
 //	NSString* s = @"111";
 //    NSString* t=[s stringValue];
+    NSString* s = [@"封" transformToPinyin];
+    
 }
 
 - (void)didReceiveMemoryWarning

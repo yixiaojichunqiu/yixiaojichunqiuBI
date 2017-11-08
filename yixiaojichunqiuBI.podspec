@@ -21,11 +21,11 @@ Pod::Spec.new do |s|
 my description is fdk bi.
                        DESC
 
-  s.homepage         = 'https://github.com/fdk785126868@qq.com/yixiaojichunqiuBI'
+  s.homepage         = 'https://github.com/yixiaojichunqiu/yixiaojichunqiuBI'
   # s.screenshots     = 'www.example.com/screenshots_1', 'www.example.com/screenshots_2'
   s.license          = { :type => 'MIT', :file => 'LICENSE' }
   s.author           = { 'fdk785126868@qq.com' => 'fdk785126868@qq.com' }
-  s.source           = { :git => 'https://github.com/fdk785126868@qq.com/yixiaojichunqiuBI.git', :tag => s.version.to_s }
+  s.source           = { :git => 'https://github.com/yixiaojichunqiu/yixiaojichunqiuBI.git', :tag => s.version.to_s }
   # s.social_media_url = 'https://twitter.com/<TWITTER_USERNAME>'
 
   s.ios.deployment_target = '8.0'
